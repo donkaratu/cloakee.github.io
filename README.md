@@ -1,23 +1,46 @@
-# Cloakee
+# Game Documentation
 
-Cloakee is an innovative, multiplayer online game designed to bring people together in a fun and engaging environment.
+## Overview
+This game is an exciting adventure where players navigate through obstacles and challenges to reach their goals.
 
-## Game Features
+## Game Components
+- **Player**: 💰 
+- **Goal**: 🏠 
+- **Seekers**: 🕵️ 
+- **Firewall**: 🚧 
+- **Data Node**: 💾 
+- **Teleport**: 🌀 
+- **Portal**: 🌌 
+- **Cloaking**: 🕶️ 
+- **Decoy**: 🧭 
+- **VPN**: 🛡️ 
+- **CC Cleaner**: 🧯 
+- **USB**: 🔌 
+- **Lives**: ❤️ 
+- **Coins**: 🪙 
+- **Level**: 🚀 
+- **Goal Reached**: 🔓 
+- **Caught**: 🚨 
+- **Pause**: ⏸️ 
+- **Audio**: 🔊 
+- **Mute**: 🔇 
 
-- **Multiplayer Mode**: Play with friends or join random players from around the world.
-- **Dynamic Game Environments**: Experience unique settings that change as you progress through the game.
-- **Customization Options**: Personalize your character and gameplay experience using various skins and icons.
+## Player Stats
+Players can track statistics such as score, lives remaining, levels completed, and items collected.
 
-## Game Icons
+## Game Actions
+Players can perform various actions such as moving, collecting coins, avoiding seekers, and activating power-ups.
 
-![Icon1](link_to_icon1.png)
-![Icon2](link_to_icon2.png)
-![Icon3](link_to_icon3.png)
+## Controls
+- **Move Left**: ←
+- **Move Right**: →
+- **Jump**: ↑
+- **Pause**: ⏸️
 
-### Comprehensive Feature Descriptions
+## How to Play
+Navigate through the game to complete levels by collecting coins, avoiding obstacles, and reaching the goal.
 
-1. **Real-Time Strategy**: Players must make quick decisions to outsmart their opponents in real-time.
-2. **Team Collaboration**: Work together with teammates to achieve common goals and complete missions.
-3. **Leaderboards**: Track your performance and climb to the top of the ranks.
-
-Join us in the world of Cloakee, where every game is a new adventure!
+## Features
+- Engaging gameplay with multiple levels.
+- Dynamic challenges that increase in difficulty.
+- Collectible items to enhance gameplay experience.
