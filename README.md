@@ -1,26 +1,23 @@
-# Cloakee Game
+# Cloakee
 
-## Game Overview
-Cloakee is a privacy/cybersecurity-themed hide-and-seek game where players navigate a digital landscape while avoiding detection. The game incorporates various elements that combine fun with learning about online privacy and cybersecurity.
+Cloakee is an innovative, multiplayer online game designed to bring people together in a fun and engaging environment.
 
-## How to Play
-- **Controls:**  
-  - Arrow Keys: Move the character  
-  - Spacebar: Activate cloaking  
-  - D: Deploy decoy  
-  - M: Access the market  
-  - P: Pause the game
+## Game Features
 
-Players must utilize their skills and the tools available to outsmart AI seekers while completing objectives in a dynamic environment.
+- **Multiplayer Mode**: Play with friends or join random players from around the world.
+- **Dynamic Game Environments**: Experience unique settings that change as you progress through the game.
+- **Customization Options**: Personalize your character and gameplay experience using various skins and icons.
 
-## Features
-- **Special Tiles:**  
-  - Firewalls, Data Nodes, Teleports, and Portals that change the gameplay landscape.  
-- **Privacy Tools:**  
-  - Cloaking, Decoy, VPN, Tor Trail, CC Cleaner, and Bootable USB to help players stay hidden and complete their missions.  
-- **Enemy AI Seekers:** Intelligent AI that adapts and hunts the player.
-- **Progressive Difficulty Levels:** The game gets progressively challenging, keeping players engaged.  
-- **PWA Support:** Playable across various devices and platforms without installation.  
-- **Audio/Music Controls:** Enjoy customizable audio experiences during gameplay.
+## Game Icons
 
-Join the adventure in Cloakee and enhance your understanding of cybersecurity while having fun!
+![Icon1](link_to_icon1.png)
+![Icon2](link_to_icon2.png)
+![Icon3](link_to_icon3.png)
+
+### Comprehensive Feature Descriptions
+
+1. **Real-Time Strategy**: Players must make quick decisions to outsmart their opponents in real-time.
+2. **Team Collaboration**: Work together with teammates to achieve common goals and complete missions.
+3. **Leaderboards**: Track your performance and climb to the top of the ranks.
+
+Join us in the world of Cloakee, where every game is a new adventure!
